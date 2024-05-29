@@ -5,4 +5,4 @@ Code for ACL2024 Findings paper “Training a Better Chinese Spelling Correction
 
 请将所需数据添加至\data文件夹下，首次运行请先将数据处理为json文件格式，示例如下：
 
-![数据样例](img/)。
+![数据样例](img/data.png)。
